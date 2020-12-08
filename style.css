@@ -1,0 +1,38 @@
+body{
+ margin-bottom:100px;
+    margin-top:100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: aquamarine;
+}
+#kadam{
+    text-align: center;
+    
+}
+.vshwesh{
+    width: 250;
+    height: 250;
+}
+
+.container { 
+    text-align: center; 
+}
+#myCarousel { 
+    background-color: red; 
+}
+#myCarousel img { 
+    height: 300px; 
+    margin-top: 35px;
+} 
+.carousel-inner p { 
+    margin-bottom: 15px; 
+    margin-top: 15px; 
+    color : white; 
+    font-size: 20px;
+} 
+#vishwesha{
+    margin-bottom:100px;
+    margin-top:100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
